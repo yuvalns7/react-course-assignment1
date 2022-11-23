@@ -1,0 +1,32 @@
+[
+    {
+      "id": "1",
+      "title": "Kitkat",
+      "amount": 5,
+      "photo": "assets/kitkat.png"
+    },
+    {
+      "id": "2",
+      "title": "m&m",
+      "amount": 7,
+      "photo": "assets/m&m.png"
+    },
+    {
+      "id": "3",
+      "title": "Skittles",
+      "amount": 10,
+      "photo": "assets/skittles.png"
+    },
+    {
+      "id": "4",
+      "title": "Reeses",
+      "amount": 8.5,
+      "photo": "assets/reeses.png"
+    },
+    {
+      "id": "5",
+      "title": "Snickers",
+      "amount": 8.5,
+      "photo": "assets/snickers.png"
+    }
+  ]
